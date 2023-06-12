@@ -1,4 +1,4 @@
-# Flask API for Number Summation and String Concatenation
+# Flask API for Number Summation, String Concatenation and User Authentication
 
 This repository contains a simple Flask API that provides two endpoints: one for calculating the sum of a list of numbers and another for concatenating two strings. The API also includes error handling for invalid input.
 
